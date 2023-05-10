@@ -14,4 +14,4 @@ The knight's tour basic summary is that on a board, in this case it's a 5 x 5 bo
 There are more than 1 set of move combinations that can achieve this, which is why the code prints out all the possible combinations of moves.
 
 # To run the program
-To compile the code, you need to run the makefile. To run the program, you need to "./a.out 3 3" (the command in the input1.dat in the testcases folder) to check it with the output of the test case.
+To compile the code, you need to run the makefile. To run the program, you need to "./a.exe 3 3" (or the command in the input1.dat in the testcases folder) to check it with the output of the test case.
