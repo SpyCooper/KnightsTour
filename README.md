@@ -12,3 +12,6 @@ A sample input and sample outputs that were provided to us to use as a test have
 The knight's tour basic summary is that on a board, in this case it's a 5 x 5 board, you want a knight from chess to be move and touch every square on the board without touching a square more than once.
 
 There are more than 1 set of move combinations that can achieve this, which is why the code prints out all the possible combinations of moves.
+
+# To run the program
+To compile the code, you need to run the makefile. To run the program, you need to ./a.out 3 3 (the command in the input1.dat in the testcases folder) to check it with the output of the test case.
