@@ -4,7 +4,7 @@ This is my implementation of the knight's tour project from our class. The main 
 This code will go through and print out all possible combinations of moves the knight can make for every possible board from each board without repeating a square.
 It starts at whatever position is entered in the command line. Ex "./a.exe 3 3" will start the knight's first position at 3,3. 
 
-The program will pring out all the possible boards with each movement order as well as how many tours were found (tours meaning the different set of movements).
+The program will print out all the possible boards with each movement order as well as how many tours were found (tours meaning the different set of movements).
 
 A sample input and sample outputs that were provided to us to use as a test have been included in the testcases folder.
 
